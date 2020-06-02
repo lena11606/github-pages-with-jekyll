@@ -1,3 +1,4 @@
+theme: minima 
 title: Welcome to Stalking Lena 
 author: Lena Park
 email: lenapark0122@gmail.com
@@ -10,4 +11,3 @@ instagram_username: l.ena116
 github_username:  lena11606
 
 show_excerpts: true # set to false to remove excerpts on the homepage
-theme: minima 
