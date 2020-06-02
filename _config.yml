@@ -10,4 +10,4 @@ description: > # this means to ignore newlines until "baseurl:"
 instagram_username: l.ena116
 github_username:  lena11606
 
-show_excerpts: true # set to false to remove excerpts on the homepage
+show_excerpts: false # set to false to remove excerpts on the homepage
